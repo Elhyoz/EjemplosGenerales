@@ -1,2 +1,3 @@
-# EjemplosPython
-Ejemplos de Python. Cosas simples
+# EjemplosGenerales
+Ejemplos de programación en general. 
+Cosas simples
